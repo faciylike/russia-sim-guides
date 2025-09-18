@@ -61,3 +61,10 @@ layout: default
 4. **保留小票**：补卡要出示原始凭证，比国内严格得多  
 
 　　**最后唠句实在的**：如果只待7天内，eSIM真是最优解。实体卡要专门跑营业厅，现在莫斯科办卡点排队堪比春运——上周路过红场MTS店，队伍都甩到古姆百货门口了。话说回来，俄罗斯网速虽然比不上国内，但地铁里刷Instagram倒是稳得很，这反差还挺有意思...
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Russia eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/russia-data-plans)
